@@ -6,8 +6,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="VanQui_21070431_ObServer" />
         <module name="VanQui_21070431_Composite" />
+        <module name="VanQui_21070431_Adapter" />
+        <module name="VanQui_21070431_ObServer" />
+        <module name="VanQui_21070431_ObServerTask" />
       </profile>
     </annotationProcessing>
   </component>

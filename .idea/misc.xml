@@ -6,6 +6,8 @@
       <list>
         <option value="$PROJECT_DIR$/VanQui_21070431_ObServer/pom.xml" />
         <option value="$PROJECT_DIR$/VanQui_21070431_Composite/pom.xml" />
+        <option value="$PROJECT_DIR$/VanQui_21070431_ObserverTask/pom.xml" />
+        <option value="$PROJECT_DIR$/VanQui_21070431_Adapter/pom.xml" />
       </list>
     </option>
   </component>
